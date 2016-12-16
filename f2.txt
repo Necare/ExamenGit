@@ -1,2 +1,4 @@
 Archivo f2.txt
 Carolina Reyes Ruiz
+
+Cambios realizados para la segunda versión C2.
