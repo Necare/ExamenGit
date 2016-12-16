@@ -1,2 +1,4 @@
 Archivo f1.txt
 Carolina Reyes Ruiz
+
+Cambios realizados para la versión C1.
