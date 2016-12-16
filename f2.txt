@@ -1,6 +1,11 @@
 Archivo f2.txt
 Carolina Reyes Ruiz
 
-Cambios realizados para la segunda versión C2.
+/*Cambios realizados para la segunda versión C2.*/
 
 Cambios realizados para correcciones del proyecto en la rama bug1.
+
+Cambios realizados en la ramaCompra.
+
+Mantenemos los cambios de ramaCompra y los de bug1 para la fusion de todas las ramas con el proyecto.
+
